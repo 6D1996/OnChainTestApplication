@@ -1,0 +1,61 @@
+{
+    "ok": true,
+    "warning": "",
+    "tiers": [
+        {
+            "from_currency": "CRO",
+            "to_currency": "USD",
+            "rates": [
+                {
+                    "amount": "1000",
+                    "rate": "0.147268"
+                }
+            ],
+            "time_stamp": 1602080062
+        },
+        {
+            "from_currency": "ETH",
+            "to_currency": "USD",
+            "rates": [
+                {
+                    "amount": "1000",
+                    "rate": "340.210000"
+                }
+            ],
+            "time_stamp": 1602080062
+        },
+        {
+            "from_currency": "DAI",
+            "to_currency": "USD",
+            "rates": [
+                {
+                    "amount": "1000",
+                    "rate": "1.010000"
+                }
+            ],
+            "time_stamp": 1602080062
+        },
+        {
+            "from_currency": "BTC",
+            "to_currency": "USD",
+            "rates": [
+                {
+                    "amount": "1000",
+                    "rate": "10603.900000"
+                }
+            ],
+            "time_stamp": 1602080062
+        },
+        {
+            "from_currency": "USDT",
+            "to_currency": "USD",
+            "rates": [
+                {
+                    "amount": "1000",
+                    "rate": "1.000727"
+                }
+            ],
+            "time_stamp": 1602080062
+        }
+    ]
+}
